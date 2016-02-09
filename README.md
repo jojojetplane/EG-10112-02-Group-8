@@ -1,5 +1,6 @@
 # EG-10112-02-Group-8
 Chris Clarizio, Christian Frederickson, Radomir Fugiel, Joe Gonzales, Gemma Stanton
+
 Group 8 Checkers Game
 
 The design goal for this project is to create a program that is able to play and defeat a human player in a board game such as Chess, Checkers, Othello, or the like. This would be accomplished using either a minimax, monte carlo, or self-learning artificial intelligence algorithm. Since this would be a board game, the GUI would focus on allowing the player to interact with the board to make their moves. 
